@@ -12,6 +12,7 @@ def index():
     return {
     	'año': '2022',
     	'curso': '3º',
+        'profesor': 'Domingo',
     	'asignatura':'gsad_UCO',
     	'alumno':'a52hepof'
 
